@@ -8,11 +8,6 @@
 
 </a>
 
-
-<br> <br>
-
-
-
 ```
  <script>
     alert( 'Hello, world! 👋' );
@@ -25,8 +20,10 @@
 
   # Welcome to my profile 👋
 
-  <p> My name is Jorge Santana (it is a pleasure to meet you 🤝), I live in Brazil in the city of Porto Alegre. <br>
-  <br>  I am in love 😍 for the JavaScript ecosystem, UX / UI lover and related areas. </p><br>
+  
+ <p> My name is Jorge Santana (it is a pleasure to meet you 🤝), I live in Brazil in the city of Porto Alegre. <br>
+  <br> I'm in love 😍 for the JavaScript ecosystem.
+</p> <br>
   
 ---
 <br>
